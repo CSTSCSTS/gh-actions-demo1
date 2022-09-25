@@ -16,7 +16,7 @@ public class GhActionsDemo1Application {
 	public static class HelloWorldController {
 		@GetMapping("/")
 		public String helloWorld() {
-			return "Hello world!!!!";
+			return "Hello world!!!!!!!";
 		}
 	}
 
